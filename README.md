@@ -1,4 +1,4 @@
-### Hi, I'm Büşra Sinem Karadeniz
+Hi, I'm Büşra Sinem Karadeniz
 
 * ⚡️ I'm currently a master's student in Computer Engineering at Yıldız Technical University and a researcher at the COSMOS Research Group.
 * 🚀 I'm interested in Multimodal AI, Computer Vision, and Natural Language Processing.
